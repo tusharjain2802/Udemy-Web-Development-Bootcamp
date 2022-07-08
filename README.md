@@ -44,7 +44,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc -
+- Project 7: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc -
 
 https://protected-shelf-24784.herokuapp.com/
 
