@@ -54,6 +54,16 @@ https://protected-shelf-24784.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Project 8: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku. Checkout: https://pacific-lake-16457.herokuapp.com/
+
+Compose your blog using hidden route : https://pacific-lake-16457.herokuapp.com/compose
+
+<p align="center">
+  <img width="460" height="300" src="#">
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Topics covered
 HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
 mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Build REST API from scratch, Heroku.
