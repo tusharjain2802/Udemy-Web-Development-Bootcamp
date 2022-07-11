@@ -54,7 +54,15 @@ https://protected-shelf-24784.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 8: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku. Checkout: https://pacific-lake-16457.herokuapp.com/
+Project 8: Todo List app - Get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: https://boiling-harbor-47525.herokuapp.com/**work**). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku. Check out: https://boiling-harbor-47525.herokuapp.com/
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/todo.gif">
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 9: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku. Checkout: https://pacific-lake-16457.herokuapp.com/
 
 Compose your blog using hidden route : https://pacific-lake-16457.herokuapp.com/compose
 
