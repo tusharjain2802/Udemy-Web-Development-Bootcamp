@@ -62,12 +62,12 @@ Project 8: Todo List app - Get, post and delete routes. You can now create and d
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 9: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku. Checkout: https://pacific-lake-16457.herokuapp.com/
+Project 9: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://pacific-lake-16457.herokuapp.com/
 
-Compose your blog using hidden route : https://pacific-lake-16457.herokuapp.com/compose
+Compose your blog at : https://pacific-lake-16457.herokuapp.com/compose
 
 <p align="center">
-  <img width="460" height="300" src="#">
+  <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/blog.gif">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
