@@ -44,9 +44,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Project 7: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc -
+- Project 7: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express, MailChimp, API, NPM, Nodemon, body-parser etc -
 
-https://protected-shelf-24784.herokuapp.com/
+https://tushar-newsletter-signup-app.herokuapp.com/
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/signup.gif">
@@ -54,7 +54,7 @@ https://protected-shelf-24784.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 8: Todo List app - Get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (example: https://boiling-harbor-47525.herokuapp.com/<CUSTOM_LIST_NAME>). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku. Check out: https://boiling-harbor-47525.herokuapp.com/
+Project 8: Todo List app - Get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (example: https://tushar-to-list-app.herokuapp.com//<CUSTOM_LIST_NAME>). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku. Check out: https://tushar-to-list-app.herokuapp.com/
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/todo.gif">
@@ -62,13 +62,17 @@ Project 8: Todo List app - Get, post and delete routes. You can now create and d
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 9: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://pacific-lake-16457.herokuapp.com/
+Project 9: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://tushar-blog-website.herokuapp.com/
 
-Compose your blog at : https://pacific-lake-16457.herokuapp.com/compose
+Compose your blog at : https://tushar-blog-website.herokuapp.com/compose
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/blog.gif">
 </p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 9: Secrets! Don't keep your secrets, share them anonymously! - Created a multi page secret web application using ejs, Bootstrap, JS, Node.js, Express.js, body-parser, Google OAuth20 API, Heroku, Mongoose, passport, express-session. You'll get option to signup with google. Also, got to know about md5 hashing, salting and other encryption techniques.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
