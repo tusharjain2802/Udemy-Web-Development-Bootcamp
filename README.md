@@ -103,6 +103,11 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
   * HTML
   * Bootstrap
   * JavaScript
-  * Visual Studio Code
+  * EJS
   * JQuery
+  * Node.js
+  * APIs
+  * React
+  * MongoDB
+  * Google OAuth20 API
 
