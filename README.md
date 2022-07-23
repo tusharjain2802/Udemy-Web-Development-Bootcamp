@@ -77,16 +77,16 @@ Project 9: Secrets! Don't keep your secrets, share them anonymously! - Created a
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project 10: Keeper App - A simple keeper app to take all your notes (title and content) made using React libraries. @material-ui/icons, @material-ui/core, 
+---
 Install required packages.
----
 `npm install`
+---
 Usage
----
 `npm start`
-Try it
 ---
+Try it
 [46u6ek.csb.app](https://46u6ek.csb.app/)
-
+---
 <p align="center">
   <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/keeper.gif">
 </p>
