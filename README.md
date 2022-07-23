@@ -77,7 +77,7 @@ Project 9: Secrets! Don't keep your secrets, share them anonymously! - Created a
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project 10: Keeper App - A simple keeper app to take all your notes (title and content) made using React libraries. @material-ui/icons, @material-ui/core, 
----
+
 Install required packages:
 `npm install`
 ---
