@@ -76,8 +76,25 @@ Project 9: Secrets! Don't keep your secrets, share them anonymously! - Created a
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Project 10: Keeper App - A simple keeper app to take all your notes (title and content) made using React libraries. @material-ui/icons, @material-ui/core, 
+Install required packages.
+---
+`npm install`
+Usage
+---
+`npm start`
+Try it
+---
+[46u6ek.csb.app](https://46u6ek.csb.app/)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/keeper.gif">
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Topics covered
-HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
+HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React, EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
 mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Build REST API from scratch, Heroku.
 
 
