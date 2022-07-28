@@ -54,7 +54,7 @@ https://tushar-newsletter-signup-app.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 8: Todo List app - Get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (example: https://tushar-to-list-app.herokuapp.com//<CUSTOM_LIST_NAME>). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku. Check out: https://tushar-to-list-app.herokuapp.com/
+Project 8: Todo List app - Get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (example: https://tushar-to-list-app.herokuapp.com/<CUSTOM_LIST_NAME>). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku. Check out: https://tushar-to-list-app.herokuapp.com/
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/tusharjain2802/Udemy-Web-Development-Bootcamp/blob/main/FrameWork%20Designs/todo.gif">
